@@ -1,0 +1,1 @@
+A plain old HTML page with flexbox layout. Looks good, even on mobile.
